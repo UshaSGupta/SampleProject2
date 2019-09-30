@@ -3,7 +3,8 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "node app"
+    "start": "node app",
+    "build": "npm build"
   },
   "dependencies": {
     "async": "^3.0.1",
